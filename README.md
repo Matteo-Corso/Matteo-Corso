@@ -1,5 +1,5 @@
 # Hi, i'm Matteo
-🔭 I’m currently working on: Completing my final university exams and graduation thesis.<br>🌱 I’m currently learning: Improving my data analysis skills with Python, SQL, and KNIME.<br>💬 Ask me about: What I studied in Bioinformatics, or my experience with SCADA and GMP.
+🔭 I’m currently working on: Completing my final university exams and graduation thesis.<br>🌱 I’m currently learning: Improving my data analysis skills with Python, SQL and KNIME.<br>💬 Ask me about: What I studied in Bioinformatics, or my experience with SCADA and GMP.
 
 
 ## 🌐 Socials:
